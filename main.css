@@ -330,6 +330,7 @@ grid-template-columns: 1fr;
 }
 .L2{
 	margin-top: 30px;
+
 }
 .head{
 
@@ -357,7 +358,9 @@ margin: 0px;
 
 .L2{
 	margin-top: 0px;
+		line-height: 1;
 }
+
 .topaythebillz{
 width: 220px;
 font-size: 80px;
