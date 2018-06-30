@@ -339,9 +339,6 @@ grid-template-columns: 1fr;
 .cardz{
 	width: 50vw;
 }
-.demo{
-	margin-top: 0px;
-}
 
 .faze{
 	width: 100vw;
@@ -358,10 +355,10 @@ margin: 0px;
 
 .L2{
 	margin-top: 0px;
-		line-height: 1;
+		line-height: 1.2;
 }
 .demo{
-	margin-top: 30px;
+	margin-top: 30px !important;
 }
 
 .topaythebillz{
